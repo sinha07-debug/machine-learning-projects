@@ -1,11 +1,11 @@
+
 # Linear Regression
 
-## Concept
-Linear Regression models the relationship between input and output using a straight line.
+##  Overview
+This folder contains implementations of Linear Regression from scratch.
 
-## Implementation
-- Built from scratch using NumPy
-- Uses Gradient Descent
+##  Implementations
+- Normal Equation (closed-form solution)
 
-## Output
-- Best fit line
+##  Files
+- `normal_equation.ipynb` → Linear Regression using pseudo-inverse
