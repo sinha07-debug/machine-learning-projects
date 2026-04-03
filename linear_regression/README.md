@@ -15,6 +15,11 @@ This folder contains implementations of Linear Regression using different approa
 - Uses loss function and gradient
 - File: `gradient_descent.ipynb`
 
+### 3. House Price Prediction ⭐
+- Real-world dataset
+- End-to-end ML workflow
+- File: `house_price_prediction.ipynb`
+
 ##  Features
 - Design matrix creation
 - Loss function (MSE)
