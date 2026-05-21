@@ -2,7 +2,11 @@
 
 This repository contains my learning and implementation journey for understanding Logistic Regression from first principles.
 
-The project begins with the Perceptron Trick, which helps build intuition for linear classification and decision boundaries.
+The project starts with the Perceptron Trick to build intuition for:
+- linear classification
+- decision boundaries
+- weights and bias
+- probabilistic prediction using the sigmoid function
 
 ---
 
@@ -14,12 +18,34 @@ Implemented from scratch using NumPy.
 
 Concepts covered:
 - Linear classification
-- Decision boundaries
-- Weights and bias
 - Perceptron learning rule
+- Weights and bias
+- Decision boundaries
 - Binary classification visualization
 
 Also includes comparison with Logistic Regression from scikit-learn.
+
+---
+
+### 2. Sigmoid Function
+
+Understanding how Logistic Regression converts linear outputs into probabilities using the sigmoid function.
+
+Topics covered:
+- Sigmoid curve
+- Probability interpretation
+- Mapping outputs between 0 and 1
+
+---
+
+### 3. Logistic Regression using scikit-learn
+
+Implementation of Logistic Regression using scikit-learn and comparison with the perceptron decision boundary.
+
+Topics covered:
+- Model training using `.fit()`
+- Learned coefficients and intercept
+- Decision boundary visualization
 
 ---
 
@@ -31,13 +57,18 @@ Also includes comparison with Logistic Regression from scikit-learn.
 - scikit-learn
 - Jupyter Notebook
 
+
 ---
 
-## Future Additions
+## Concepts Covered
 
+- Binary Classification
+- Linear Separability
 - Sigmoid Function
-- Logistic Regression Mathematics
-- Log Loss
-- Gradient Descent
-- Logistic Regression from Scratch
+- Perceptron Learning Rule
+- Weights and Bias
 - Decision Boundary Visualization
+- Logistic Regression Basics
+
+---
+
